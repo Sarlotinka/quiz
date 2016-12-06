@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_button">Start</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="question_girraffe">Girraffes have 4 legs.</string>
+     <string name="question_fish">Fish live on land.</string> 
+    <string name="question_Dog">Dogs have tails</string>
+     
+    <string name="question_Han">Hans lay eggs</string>
+     
+    <string name="question_Lion">Lions eat grass</string>
+     
+    <string name="question_Bird">Birds have fur</string>
+     
+    <string name="question_Octopus">Octopi have 8 tentickles</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
